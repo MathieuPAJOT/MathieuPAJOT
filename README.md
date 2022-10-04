@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 
-**MathieuPAJOT/MathieuPAJOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mathieu, student at Ecole O'clock, after 10 years in business 
 
 Here are some ideas to get you started:
 
