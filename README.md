@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuPAJOT&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MathieuPAJOT)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
